@@ -21,7 +21,7 @@
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-xl-6 text-center text-md-left">
-                <div class="jumbotron-custom wow fadeInRight">
+                <div class="jumbotron-custom wow fadeInRight" style="  text-shadow: 2px 2px 8px #4deeea;">
                   <div class="text-1">Carlos Valladarez</div>
                   <div class="text-2"></div>
                   <div class="title">Developer</div>
@@ -59,7 +59,7 @@
             </div>
             <div class="object object-6"><img class="wow fadeInRight" src="images/image-custom-6-275x184.jpg" alt="" width="275" height="184" data-wow-delay="0.4s"/>
             </div>-->
-            <div class="object object-3"><img class="wow fadeInRight" src="images/PhotoPerfil.jpg" alt="" width="395" height="243" data-wow-delay="0.4s"/>
+            <div class="object object-3"><img class="wow fadeInRight" src="images/PhotoPerfil.jpg" alt="" width="100%" height="100%" data-wow-delay="0.4s"/>
             </div>
             
           </div>
