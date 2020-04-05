@@ -34,25 +34,20 @@
       </section>
       <!-- EVERY PROJECT-->
       <section class="section section-xl-custom image-section section-lined">
-        <div class="container container-lined">
-          <div class="row">
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-          </div>
-        </div>
         <div class="container">
           <div class="row">
-            <div class="col-md-7 col-lg-6">
-              <h3>EVERY PROJECT</h3>
-              <div class="big big-custom">IS A CHALLENGE TO DO BETTER</div>
-              <p>We are a team of  talented designers and developers who are ready to guide our clients through the flawless and timely execution of any web design project. Since day one, we have been delivering creative and unique websites to our clients worldwide.</p>
+            <div class="col-md-7 col-lg-10">
+              <h3>Carlos Valladarez</h3>
+              <div class="big big-custom">Desarrollador</div>
+              <div class="col-md-4">Telefono: +593 995 867 551</div>
+            <div class="col-md-4">Ubicación: Cuenca-Ecuador</div>
+            <div class="col-md-4">Email: carlos-avb@hotmail.com</div>
             </div>
           </div>
         </div>
         <div class="image-container">
           <div class="mock-up-1">
-            <div class="object object-1"><a href="#"><img class="wow fadeInRight" src="images/image-custom-1-395x243.jpg" alt="" width="395" height="243"/></a>
+         <!-- <div class="object object-1"><a href="#"><img class="wow fadeInRight" src="images/image-custom-1-395x243.jpg" alt="" width="395" height="243"/></a>
             </div>
             <div class="object object-2"><img class="wow fadeInRight" src="images/image-custom-2-384x189.jpg" alt="" width="384" height="189" data-wow-delay="0.2s"/>
             </div>
@@ -63,23 +58,20 @@
             <div class="object object-5"><img class="wow fadeInRight" src="images/image-custom-5-395x243.jpg" alt="" width="395" height="243" data-wow-delay="0.2s"/>
             </div>
             <div class="object object-6"><img class="wow fadeInRight" src="images/image-custom-6-275x184.jpg" alt="" width="275" height="184" data-wow-delay="0.4s"/>
+            </div>-->
+            <div class="object object-3"><img class="wow fadeInRight" src="images/PhotoPerfil.jpg" alt="" width="395" height="243" data-wow-delay="0.4s"/>
             </div>
+            
           </div>
         </div>
       </section>
       <!-- Latest Works-->
       <section class="section section-xs section-xs-3 bg-default section-lined">
-        <div class="container container-lined">
-          <div class="row">
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-          </div>
-        </div>
+        
         <div class="container">
           <div class="row row-30">
             <div class="col-sm-6">
-              <h3><a href="/site/CV/HojaDeVida.pdf" >Hoja de Vida</a></h3>
+              <h3><a href="/CV/HojaDeVida.pdf" >Hoja de Vida</a></h3>
             </div>
             <div class="col-sm-6 text-sm-right"><a class="button button-default"  target="_blank" href="https://github.com/chey3002?tab=repositories">View all projects</a></div>
           </div>
