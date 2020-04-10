@@ -110,10 +110,10 @@
               <div class="swiper-slide" >
               <h3>Experiencia laboral</h3>
               </br>
-              <h10>Toque de Queda Exposición Artística</h10>
+              <h10><a href="https://sites.google.com/view/toquedequeda/página-principal">Toque de Queda Exposición Artística</a></h10>
               <p>Enero 2020 - Febrero 2020</p>
               <p>Desarrollador web:  Desarrollo de la página web para "Toque de Queda Exposición Artística"</p>
-              <h10>Superintendencia de Ordenamiento Territorial, Uso y Gestión del Suelo</h10>
+              <h10><a href="https://mongodbapp-chey3002.herokuapp.com">Superintendencia de Ordenamiento Territorial, Uso y Gestión del Suelo</a></h10>
               <p>Agosto 2019 - Septiembre 2019</p>
               <p>Prácticas de ingeniería: Se desarrollo una aplicación web- con nodejs, express, y ejs- que permita gestionar usuarios y archivos para los GADs, en una base de datos noSQL</p>
               
