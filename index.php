@@ -43,9 +43,11 @@
             <div class="col-md-4">Ubicación: Cuenca-Ecuador</div>
             <div class="col-md-4">Email: carlos-avb@hotmail.com</div>
             </br>
+            </br>
+            <div class="col-md-4">Ejemplos de mi trabajo</div>
             <h10><a href="https://sites.google.com/view/toquedequeda/página-principal">Toque de Queda Exposición Artística</a></h10>
             </br>
-            <h10><a href="https://mongodbapp-chey3002.herokuapp.com">Superintendencia de Ordenamiento Territorial, Uso y Gestión del Suelo</a></h10>
+            <h10><a href="https://mongodbapp-chey3002.herokuapp.com">Deeply-Nested-Mongo-System</a></h10>
 
 
             </div>
