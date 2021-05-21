@@ -16,7 +16,7 @@
   <body>
     
       <!-- Preview section-->
-      <section class="section context-dark bg-image bg-mask bg-mask-2 section-fullheight section-90vh" style="background-image: url(images/building-sign-light-neon.jpg)">
+      <section class="section context-dark bg-image bg-mask bg-mask-2 section-fullheight section-100vh" style="background-image: url(images/building-sign-light-neon.jpg)">
         <div class="section-fullheight-inner section-md">
           <div class="container">
             <div class="row">
