@@ -5061,6 +5061,17 @@ html [class*='section-'].section-bottom-0 {
 		min-height: 90vh;
 	}
 }
+@media (min-width: 992px) {
+	.section-100vh .section-fullheight-inner {
+		min-height: 90vh;
+	}
+}
+
+@media (min-width: 1200px) {
+	.section-90vh .section-fullheight-inner {
+		min-height: 100vh;
+	}
+}
 
 .section-relative {
 	position: relative;
