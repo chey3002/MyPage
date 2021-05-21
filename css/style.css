@@ -5068,7 +5068,7 @@ html [class*='section-'].section-bottom-0 {
 }
 
 @media (min-width: 1200px) {
-	.section-90vh .section-fullheight-inner {
+	.section-100vh .section-fullheight-inner {
 		min-height: 100vh;
 	}
 }
