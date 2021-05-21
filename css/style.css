@@ -5063,7 +5063,7 @@ html [class*='section-'].section-bottom-0 {
 }
 @media (min-width: 992px) {
 	.section-100vh .section-fullheight-inner {
-		min-height: 90vh;
+		min-height: 100vh;
 	}
 }
 
